@@ -1,3 +1,6 @@
+#added comments
+# Zed Shaw's course. 30 -Day Streak =)
+
 from sys import exit
 
 def gold_room():
